@@ -1,9 +1,17 @@
 
 export default function LawFirms() {
   return (
-    <div className="p-6">
-      <h1 className="text-2xl font-bold mb-4">Legal Partnerships</h1>
-      <p>We offer outreach and story-based data collection for tenant rights law firms seeking equity-based engagement with vulnerable communities.</p>
+    <div className="p-8 space-y-4">
+      <h1 className="text-3xl font-bold text-green-800">Outreach Services for Law Firms</h1>
+      <p className="text-gray-700">
+        We specialize in tenant rights outreach designed for law firms that want trusted, documented community engagement.
+      </p>
+      <ul className="list-disc ml-6 text-gray-600">
+        <li>Bilingual door-to-door & pop-up campaigns</li>
+        <li>Legally sound consent and intake collection</li>
+        <li>Visual data reports for court or grant usage</li>
+        <li>Low-cost flat-rate pricing</li>
+      </ul>
     </div>
   );
 }

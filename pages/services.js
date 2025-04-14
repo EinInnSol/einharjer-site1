@@ -1,14 +1,14 @@
 
 export default function Services() {
   return (
-    <div className="p-6">
-      <h1 className="text-2xl font-bold mb-4">Our Services</h1>
-      <ul className="list-disc ml-6">
+    <div className="p-8 space-y-4">
+      <h1 className="text-3xl font-bold text-blue-900">Our Services</h1>
+      <ul className="list-disc ml-6 text-gray-700">
         <li>Community Outreach & Engagement</li>
-        <li>Tenant Rights Pop-Up Events</li>
-        <li>Digital Survey & SMS Campaigns</li>
-        <li>StoryGraph™ Reporting & Analysis</li>
-        <li>Legal Partnership Support (Custom)</li>
+        <li>QR Survey Campaigns with Visual Reports</li>
+        <li>Trauma-Informed Event Hosting</li>
+        <li>StoryGraph™ Dashboard Access</li>
+        <li>Partnerships with Legal Aid for Tenant Rights</li>
       </ul>
     </div>
   );

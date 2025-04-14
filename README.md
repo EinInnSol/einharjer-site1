@@ -1,3 +1,3 @@
 # EINHARJER INNOVATIVE SOLUTIONS
 
-Mission-driven outreach powered by StoryGraph™.
+Outreach powered by data, trust, and StoryGraph™.
