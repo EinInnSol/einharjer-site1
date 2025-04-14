@@ -1,1 +1,3 @@
-# einharjer-site1
+# EINHARJER INNOVATIVE SOLUTIONS
+
+Mission-driven outreach powered by StoryGraph™.
