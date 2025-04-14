@@ -1,3 +1,3 @@
 # EINHARJER INNOVATIVE SOLUTIONS
 
-Outreach powered by data, trust, and StoryGraph™.
+With navigation bar and StoryGraph™ support.

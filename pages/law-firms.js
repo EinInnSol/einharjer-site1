@@ -1,8 +1,8 @@
 
 export default function LawFirms() {
   return (
-    <div className="p-8 space-y-4">
-      <h1 className="text-3xl font-bold text-green-800">Outreach Services for Law Firms</h1>
+    <div>
+      <h1 className="text-3xl font-bold text-green-800 mb-4">Outreach Services for Law Firms</h1>
       <p className="text-gray-700">
         We specialize in tenant rights outreach designed for law firms that want trusted, documented community engagement.
       </p>
